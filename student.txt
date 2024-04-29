@@ -1,0 +1,54 @@
+Student Id = 1300899
+Name = Salma Hayek
+course = IB
+Phone Number = 790-0000
+
+Student Id = 1200233
+Name = Matt Damon
+course = CS
+Phone Number = 790-3233
+
+Student Id = 1401237
+Name = Ben Affleck
+course = IA
+Phone Number = 432-4579
+
+Student Id = 1241247
+Name = Jack Lim
+course = CN
+Phone Number = 422-4379
+
+Student Id = 1601237
+Name = Sutian Tang
+course = CT
+Phone Number = 632-4559
+
+Student Id = 1301267
+Name = Kean Yew
+course = IB
+Phone Number = 732-4514
+
+Student Id = 1201437
+Name = Chang Yang
+course = CT
+Phone Number = 432-4575
+
+Student Id = 1409323
+Name = Najib wee
+course = CT
+Phone Number = 923-8362
+
+Student Id = 1278394
+Name = Lee Zii Jia
+course = CN
+Phone Number = 374-2837
+
+Student Id = 1373523
+Name = Ali mohammad
+course = IA
+Phone Number = 253-3648
+
+Student Id = 1375849
+Name = Muthu poi
+course = IB
+Phone Number = 721-8731

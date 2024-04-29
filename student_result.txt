@@ -1,0 +1,245 @@
+student 1
+Name : Ali mohammad
+ID : 1373523
+Course : IA
+Phone No : 253-3648
+Current CGPA : 0
+Total Credit Earned : 0
+Past Exam Result
+ THIS STUDENT HAVEN’T TAKEN ANY EXAM YET. 
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+student 2
+Name : Ben Affleck
+ID : 1401237
+Course : IA
+Phone No : 432-4579
+Current CGPA : 3.665
+Total Credit Earned : 8
+Past Exam Result
+Oct 2012 Exam Results:
+------------------
+2subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN                               	 4             B+       3.33000
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING               	 4             A        4.00000
+GPA : 3.66500
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+student 3
+Name : Chang Yang
+ID : 1201437
+Course : CT
+Phone No : 432-4575
+Current CGPA : 3.80250
+Total Credit Earned : 32
+Past Exam Result
+May 2013 Exam Results:
+------------------
+2subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING               	 5             B        3.00000
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN                               	 4             A-       3.67000
+GPA : 3.29778
+
+Jan 2015 Exam Results:
+------------------
+1subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD2512	INTRODUCTION_TO_COMPUTING                                     	 6             A+       4.00000
+GPA : 4.00000
+
+Jan 2016 Exam Results:
+------------------
+1subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING               	 10            A+       4.00000
+GPA : 4.00000
+
+Jan 2017 Exam Results:
+------------------
+1subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING	 7             A+       4.00000
+GPA : 4.00000
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+student 4
+Name : Jack Lim
+ID : 1241247
+Course : CN
+Phone No : 422-4379
+Current CGPA : 3.33000
+Total Credit Earned : 3
+Past Exam Result
+May 2012 Exam Results:
+------------------
+1subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING	 3             B+       3.33000
+GPA : 3.33000
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+student 5
+Name : Kean Yew
+ID : 1301267
+Course : IB
+Phone No : 732-4514
+Current CGPA : 3.78000
+Total Credit Earned : 15
+Past Exam Result
+May 2013 Exam Results:
+------------------
+2subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING               	 5             A+       4.00000
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN                               	 10            A-       3.67000
+GPA : 3.78000
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+student 6
+Name : Lee Zii Jia
+ID : 1278394
+Course : CN
+Phone No : 374-2837
+Current CGPA : 4.00000
+Total Credit Earned : 10
+Past Exam Result
+Oct 2012 Exam Results:
+------------------
+1subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING               	 10            A+       4.00000
+GPA : 4.00000
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+student 7
+Name : Matt Damon
+ID : 1200233
+Course : CS
+Phone No : 790-3233
+Current CGPA : 3.85857
+Total Credit Earned : 7
+Past Exam Result
+May 2012 Exam Results:
+------------------
+2subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING               	 4             A        4.00000
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING	 3             A-       3.67000
+GPA : 3.85857
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+student 8
+Name : Muthu poi
+ID : 1375849
+Course : IB
+Phone No : 721-8731
+Current CGPA : 4.00000
+Total Credit Earned : 30
+Past Exam Result
+May 2013 Exam Results:
+------------------
+3subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN                               	 10            A        4.00000
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING               	 10            A        4.00000
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING	 10            A        4.00000
+GPA : 4.00000
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+student 9
+Name : Najib wee
+ID : 1409323
+Course : CT
+Phone No : 923-8362
+Current CGPA : 3.24000
+Total Credit Earned : 7
+Past Exam Result
+May 2014 Exam Results:
+------------------
+2subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING               	 3             A        4.00000
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN                               	 4             B-       2.67000
+GPA : 3.24000
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+student 10
+Name : Salma Hayek
+ID : 1300899
+Course : IB
+Phone No : 790-0000
+Current CGPA : 4.00000
+Total Credit Earned : 39
+Past Exam Result
+Jan 2013 Exam Results:
+------------------
+3subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN                               	 10            A        4.00000
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING               	 10            A        4.00000
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING	 10            A        4.00000
+GPA : 4.00000
+
+Oct 2012 Exam Results:
+------------------
+1subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD1024	DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING               	 3             A        4.00000
+GPA : 4.00000
+
+Oct 2013 Exam Results:
+------------------
+1subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING	 6             A        4.00000
+GPA : 4.00000
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+student 11
+Name : Sutian Tang
+ID : 1601237
+Course : CT
+Phone No : 632-4559
+Current CGPA : 3.33333
+Total Credit Earned : 9
+Past Exam Result
+Jan 2016 Exam Results:
+------------------
+3subject taken
+
+subject code	 subject name		  					 Credit hours  Grade    Grade point  
+UCCD2502	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING	 2             A+       4.00000
+UCCD1004	PROGRAMMING_CONCEPTS_AND_DESIGN                               	 3             C        2.00000
+UCCD2512	INTRODUCTION_TO_COMPUTING                                     	 4             A+       4.00000
+GPA : 3.33333
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
